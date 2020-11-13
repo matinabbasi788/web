@@ -6,14 +6,15 @@
     text-decoration: none;
 }
 
-body{
+
+/* body{
     height: 100vh;
     background: url(back.jpg) no-repeat center;
     background-size: cover;
     display: flex;
     align-items: center;
     justify-content: center;
-}
+} */
 
 .profile-card{
     width: 400px;
